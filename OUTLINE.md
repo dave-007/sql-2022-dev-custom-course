@@ -11,16 +11,23 @@ DAY 1
             * TBD
         * [2019 New  Features](https://github.com/microsoft/sqlworkshops-sql2019workshop/tree/master/sql2019workshop)
             * Intelligent Query Performance (IQP)
+            ![IQP Family Tree](iqp_family_tree.png)
+                * 2017
                 * 2019 
                     * C:\sqlworkshops-sql2019workshop\sql2019workshop\02_IntelligentPerformance.md
                     * ACTIVITY: Table Variable Deferred Compilation
                         * NOTEBOOK: C:\sqlworkshops-sql2019workshop\sql2019workshop\02_IntelligentPerformance\iqp\iqp_tablevariabledeferred.ipynb
                     * ACTIVITY: Using Query Store for Performance Analysis
+                        * 
 
                 * 2022 
                     * SLIDES 45-
                     * Exercises for SQL 2022: 
                     * [SQL Server 2022: Built-in Query Intelligence [Ep. 3] | Data Exposed](https://www.youtube.com/watch?v=Nd0mKM3O3sQ&list=PL3EZ3A8mHh0yZEkyK_Gqe3D1v3_SuP01O&index=3)
+                    * TODO:walkthru - DOP Feedback - sql2022workshop\03_BuiltinQueryIntelligence\dopfeedback\readme.md
+                    * TODO:Walkthru - Memory Grant Feedback Persistence - sql2022workshop\03_BuiltinQueryIntelligence\persistedmgf\readme.md
+                    * TODO: Walkthru - Parameter Sensitive Plan Optimization (PSP) - sql2022workshop\03_BuiltinQueryIntelligence\pspopt\readme.md
+
                 
             * Data Virtualization
                 * Polybase Overview (2019 PPT, slide 43-47)
@@ -37,6 +44,8 @@ DAY 1
                 * Exercises: [https://github.com/microsoft/sqlworkshops-sql2022workshop/tree/main/sql2022workshop/06_TSQL](https://github.com/microsoft/sqlworkshops-sql2022workshop/tree/main/sql2022workshop/06_TSQL)
             * TempDB
                 * Exercises: [https://github.com/microsoft/sqlworkshops-sql2022workshop/tree/main/sql2022workshop/04_Engine/tempdb](https://github.com/microsoft/sqlworkshops-sql2022workshop/tree/main/sql2022workshop/04_Engine/tempdb)
+            * Other Resources
+                * https://www.mssqltips.com/sqlservertip/7265/sql-server-2022-t-sql-enhancements/
 * PM
     * T-SQL Continued
     * Modern Data Toolset
@@ -74,4 +83,5 @@ DAY 2
 
 ### Other topics, if there is interest & time:
 
+- SQL Tools Overview - https://learn.microsoft.com/en-us/sql/tools/overview-sql-tools?view=sql-server-ver16
 - Data Classification
