@@ -11,11 +11,25 @@ DAY 1
             * TBD
         * [2019 New  Features](https://github.com/microsoft/sqlworkshops-sql2019workshop/tree/master/sql2019workshop)
             * Intelligent Query Performance (IQP)
-                * SLIDES 45-
-                * Exercises: [https://github.com/microsoft/sqlworkshops-sql2019workshop/tree/master/sql2019workshop/02_IntelligentPerformance](https://github.com/microsoft/sqlworkshops-sql2019workshop/tree/master/sql2019workshop/02_IntelligentPerformance)
+                * 2019 
+                    * C:\sqlworkshops-sql2019workshop\sql2019workshop\02_IntelligentPerformance.md
+                    * ACTIVITY: Table Variable Deferred Compilation
+                        * NOTEBOOK: C:\sqlworkshops-sql2019workshop\sql2019workshop\02_IntelligentPerformance\iqp\iqp_tablevariabledeferred.ipynb
+                    * ACTIVITY: Using Query Store for Performance Analysis
+
+                * 2022 
+                    * SLIDES 45-
+                    * Exercises for SQL 2022: 
+                    * [SQL Server 2022: Built-in Query Intelligence [Ep. 3] | Data Exposed](https://www.youtube.com/watch?v=Nd0mKM3O3sQ&list=PL3EZ3A8mHh0yZEkyK_Gqe3D1v3_SuP01O&index=3)
+                
             * Data Virtualization
                 * Polybase Overview (2019 PPT, slide 43-47)
-                * Exercises: [https://github.com/microsoft/sqlworkshops-sql2019workshop/tree/master/sql2019workshop/08_DataVirtualization](https://github.com/microsoft/sqlworkshops-sql2019workshop/tree/master/sql2019workshop/08_DataVirtualization)
+                * Configuration: https://learn.microsoft.com/en-us/sql/relational-databases/polybase/polybase-installation?view=sql-server-ver16#use-the-installation-wizard
+                * Drivers: https://www.microsoft.com/en-us/download/details.aspx?id=54920
+                * Exercises: 
+                    * [https://github.com/microsoft/sqlworkshops-sql2019workshop/tree/master/sql2019workshop/08_DataVirtualization](https://github.com/microsoft/sqlworkshops-sql2019workshop/tree/master/sql2019workshop/08_DataVirtualization)
+                    * CSV - Azure - https://learn.microsoft.com/en-us/sql/relational-databases/polybase/virtualize-csv?view=sql-server-ver16&source=recommendations
+                    * CSV - LOCAL - See Demo
         * 2022 New T-SQL Features
             * T-SQL Enhancements
             * JSON
@@ -27,7 +41,13 @@ DAY 1
     * T-SQL Continued
     * Modern Data Toolset
         * Azure Data Studio
+            * Overview - https://learn.microsoft.com/en-us/azure-data-studio/?view=sql-server-ver15
         * Notebooks
+            * Intro - https://learn.microsoft.com/en-us/azure-data-studio/notebooks/notebooks-sql-kernel
+        * Visualizations - SandDance - https://learn.microsoft.com/en-us/azure-data-studio/extensions/sanddance-extension
+        * SQL Database Projects - https://learn.microsoft.com/en-us/azure-data-studio/extensions/sql-database-project-extension
+        * Schema Compare - https://learn.microsoft.com/en-us/azure-data-studio/extensions/schema-compare-extension
+        * SQL Server IMport - https://learn.microsoft.com/en-us/azure-data-studio/extensions/sql-server-import-extension
     * 
 
 DAY 2

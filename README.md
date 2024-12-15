@@ -9,6 +9,10 @@
 - [AdventureWorks](https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks)
 
 ### SQL 2022
+aka.ms/sql2022workshop
+aka.ms/sqlserver2022decks
+aka.ms/sqlserver2022series
+aka.ms/sqlserver2022demos
 
 ### SQL 2019
 - https://aka.ms/sqlworkshops
