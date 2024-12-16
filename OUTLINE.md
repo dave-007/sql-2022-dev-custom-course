@@ -1,6 +1,7 @@
 ### Outline:
 
 DAY 1
+TODO: RESTORE original WWI
 
 
 
@@ -12,7 +13,7 @@ DAY 1
         * AZURE DATA STUDIO
         * Visual Studio 2022 (SQL Server Data Tools)
         * GIT REPOS
-            * TASK: clone https://github.com/microsoft/sql-server-samples to C:\
+            * STUDENT TASK: clone https://github.com/microsoft/sql-server-samples to C:\
     * T-SQL Enhancements
         * 2022 New T-SQL Features
             * OVERVIEW - sql2022workshop\06_TSQL.md
@@ -37,8 +38,9 @@ DAY 1
                     * SLIDES 45-
                     * Exercises for SQL 2022: 
                     * [SQL Server 2022: Built-in Query Intelligence [Ep. 3] | Data Exposed](https://www.youtube.com/watch?v=Nd0mKM3O3sQ&list=PL3EZ3A8mHh0yZEkyK_Gqe3D1v3_SuP01O&index=3)
-                        * TODO:walkthru - DOP Feedback - sql2022workshop\03_BuiltinQueryIntelligence\dopfeedback\readme.md
-                        * TODO:Walkthru - Memory Grant Feedback Persistence - sql2022workshop\03_BuiltinQueryIntelligence\persistedmgf\readme.md
+                        * SKIP? TODO:walkthru - DOP Feedback - sql2022workshop\03_BuiltinQueryIntelligence\dopfeedback\readme.md
+                            * ![XEvent DOP Feedback](xevent_dop_feedback.png)
+                        * Memory Grant Feedback Persistence - sql2022workshop\03_BuiltinQueryIntelligence\persistedmgf\readme.md
                         * TODO: Walkthru - Parameter Sensitive Plan Optimization (PSP) - sql2022workshop\03_BuiltinQueryIntelligence\pspopt\readme.md
                     * TempDB Enhancements
                         * TODO:Walkthru - Hands Free TempDB - sql2022workshop\04_Engine\tempdb\readme.md            
@@ -60,10 +62,11 @@ DAY 1
             * Overview - https://learn.microsoft.com/en-us/azure-data-studio/?view=sql-server-ver15
         * Notebooks
             * Intro - https://learn.microsoft.com/en-us/azure-data-studio/notebooks/notebooks-sql-kernel
+            * 2019 (including IQP) - https://github.com/microsoft/sql-server-samples/blob/master/samples/features/sql2019notebooks/README.md
         * Visualizations - SandDance - https://learn.microsoft.com/en-us/azure-data-studio/extensions/sanddance-extension
         * SQL Database Projects - https://learn.microsoft.com/en-us/azure-data-studio/extensions/sql-database-project-extension
         * Schema Compare - https://learn.microsoft.com/en-us/azure-data-studio/extensions/schema-compare-extension
-        * SQL Server IMport - https://learn.microsoft.com/en-us/azure-data-studio/extensions/sql-server-import-extension
+        * SQL Server Import - https://learn.microsoft.com/en-us/azure-data-studio/extensions/sql-server-import-extension
     * 
 
 DAY 2
