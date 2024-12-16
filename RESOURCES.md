@@ -16,3 +16,7 @@ aka.ms/sqlserver2022demos
 
 ### SQL 2019
 aka.ms/sqlworkshops
+aka.ms/ss19
+aka.ms/sqlworkshops
+aka.ms/SQL2019Notebooks
+aka.ms/sql2019learning

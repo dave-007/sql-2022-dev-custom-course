@@ -18,6 +18,12 @@
         * SQL2019workshop
         * SQL-SERVER-SAMPLES
 
+> LAB NOTES:
+- First time opening Azure Data Studio, choose option 
+to wait, it will eventually open.
+- When required, restore all database files to D drive using 'relocate all files to folder' with defaults.
+![alt text](image.png)
+
 #### T-SQL Enhancements
 
 * 2022 New T-SQL Features
@@ -27,6 +33,8 @@
     * Time Series - sql2022workshop\06_TSQL\timeseries\readme.md
     * TempDB
         * Exercises: sql2022workshop\04_Engine\tempdb
+    * MS Learn
+        * [Introduction to SQL Server 2022 T-SQL enhancements](https://learn.microsoft.com/en-us/training/modules/introduction-sql-server-2022-t-sql-enhancements/)
     * Other Resources
         * https://www.mssqltips.com/sqlservertip/7265/sql-server-2022-t-sql-enhancements/
 
@@ -44,6 +52,7 @@
 
 * 2022 Slides 45-__
 * 2022 Exercises - sql2022workshop/03_BuiltinQueryIntelligence
+* [Understand the built-in query intelligence enhancements of SQL Server 2022 on MS Learn](https://learn.microsoft.com/en-us/training/modules/sql-server-2022-performance-enhancements/)
 * Docs - https://learn.microsoft.com/en-us/sql/relational-databases/performance/intelligent-query-processing?view=sql-server-ver16
 * Sample Demos - https://github.com/Microsoft/sql-server-samples/tree/master/samples/features/intelligent-query-processing
 * [SQL Server 2022: Built-in Query Intelligence [Ep. 3] | Data Exposed](https://www.youtube.com/watch?v=Nd0mKM3O3sQ&list=PL3EZ3A8mHh0yZEkyK_Gqe3D1v3_SuP01O&index=3)
@@ -57,7 +66,7 @@
     * ACTIVITY: Table Variable Deferred Compilation
         * NOTEBOOK: sql2019workshop\02_IntelligentPerformance\iqp\iqp_tablevariabledeferred.ipynb
     * ACTIVITY: Using Query Store for Performance Analysis
-
+    * EXTRAS: sql-server-samples\samples\features\sql2019notebooks
 ---
 
 ## DAY 2
@@ -101,6 +110,6 @@
 
 ### Other topics & Resources:
 
-- SQL Tools Overview - https://learn.microsoft.com/en-us/sql/tools/overview-sql-tools?view=sql-server-ver16
-- Data Classification
+- [Explore SQL Server 2022 capabilities on MS Learn](https://learn.microsoft.com/en-us/training/paths/explore-sql-server-2022-capabilities/)
+- [SQL Tools Overview](https://learn.microsoft.com/en-us/sql/tools/overview-sql-tools?view=sql-server-ver16)
 - [SQL Samples](https://learn.microsoft.com/en-us/sql/samples/sql-samples-where-are?view=sql-server-ver16#wideworldimporters-sample-database)

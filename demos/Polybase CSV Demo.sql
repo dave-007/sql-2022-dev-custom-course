@@ -33,7 +33,7 @@ WITH
     PUSHDOWN = OFF
 );
 
--- create a netowrk share datasource
+-- create a network share datasource
 CREATE EXTERNAL DATA SOURCE MyODBCNetwork
 WITH 
 ( 
