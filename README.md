@@ -65,36 +65,36 @@
                 
 
 ### AM
-    * Review, Q & A
-    * Modern Data Toolset
-        * Azure Data Studio - Drilldown & Additional Features
-            * Overview - https://learn.microsoft.com/en-us/azure-data-studio/?view=sql-server-ver15
-            * Notebooks
-                * Intro - https://learn.microsoft.com/en-us/azure-data-studio/notebooks/notebooks-sql-kernel
-                * 2019 (including IQP) - https://github.com/microsoft/sql-server-samples/blob/master/samples/features/sql2019notebooks/README.md
-            * Visualizations - SandDance - https://learn.microsoft.com/en-us/azure-data-studio/extensions/sanddance-extension
-            * SQL Database Projects - https://learn.microsoft.com/en-us/azure-data-studio/extensions/sql-database-project-extension
-            * Schema Compare - https://learn.microsoft.com/en-us/azure-data-studio/extensions/schema-compare-extension
-            * SQL Server Import - https://learn.microsoft.com/en-us/azure-data-studio/extensions/sql-server-import-extension
-        * SSMS 21, New Features 
+* Review, Q & A
+* Modern Data Toolset
+   * Azure Data Studio - Drilldown & Additional Features
+      * Overview - https://learn.microsoft.com/en-us/azure-data-studio/?view=sql-server-ver15
+      * Notebooks
+          * Intro - https://learn.microsoft.com/en-us/azure-data-studio/notebooks/notebooks-sql-kernel
+          * 2019 (including IQP) - https://github.com/microsoft/sql-server-samples/blob/master/samples/features/sql2019notebooks/README.md
+      * Visualizations - SandDance - https://learn.microsoft.com/en-us/azure-data-studio/extensions/sanddance-extension
+      * SQL Database Projects - https://learn.microsoft.com/en-us/azure-data-studio/extensions/sql-database-project-extension
+      * Schema Compare - https://learn.microsoft.com/en-us/azure-data-studio/extensions/schema-compare-extension
+      * SQL Server Import - https://learn.microsoft.com/en-us/azure-data-studio/extensions/sql-server-import-extension
+  * SSMS 21, New Features 
 
 ---
 
 ### PM
-    * [SSIS in VS 2022](https://techcommunity.microsoft.com/t5/sql-server-integration-services/bg-p/SSIS)
-        * [Tutorials](https://learn.microsoft.com/en-us/sql/integration-services/integration-services-tutorials?view=sql-server-ver16)
-        * [Lesson 1: Create a project and basic package with SQL Server Integration Services (SSIS)](https://learn.microsoft.com/en-us/sql/integration-services/lesson-1-create-a-project-and-basic-package-with-ssis?view=sql-server-ver16)
-    * Data Virtualization
-        * Polybase Overview (2019 PPT, slide 43-47)
-        * Configuration: https://learn.microsoft.com/en-us/sql/relational-databases/polybase/polybase-installation?view=sql-server-ver16#use-the-installation-wizard
-        * Drivers: https://www.microsoft.com/en-us/download/details.aspx?id=54920
-        * Exercises: 
-            * CSV - LOCAL & Network Share - See demos/Polybase CSV Demo.sql   
-            * (OPTIONAL) MinIO - sql2022workshop\05_DataVirt\minio\readme.md
-            * Other 2019 Exercises [https://github.com/microsoft/sqlworkshops-sql2019workshop/tree/master/sql2019workshop/08_DataVirtualization](https://github.com/microsoft/sqlworkshops-sql2019workshop/tree/master/sql2019workshop/08_DataVirtualization) 
-            * Other 2022 Exercises - [https://github.com/microsoft/sqlworkshops-sql2022workshop/tree/main/sql2022workshop/05_DataVirt](https://github.com/microsoft/sqlworkshops-sql2022workshop/tree/main/sql2022workshop/05_DataVirt)
+ * [SSIS in VS 2022](https://techcommunity.microsoft.com/t5/sql-server-integration-services/bg-p/SSIS)
+     * [Tutorials](https://learn.microsoft.com/en-us/sql/integration-services/integration-services-tutorials?view=sql-server-ver16)
+     * [Lesson 1: Create a project and basic package with SQL Server Integration Services (SSIS)](https://learn.microsoft.com/en-us/sql/integration-services/lesson-1-create-a-project-and-basic-package-with-ssis?view=sql-server-ver16)
+ * Data Virtualization
+     * Polybase Overview (2019 PPT, slide 43-47)
+     * Configuration: https://learn.microsoft.com/en-us/sql/relational-databases/polybase/polybase-installation?view=sql-server-ver16#use-the-installation-wizard
+     * Drivers: https://www.microsoft.com/en-us/download/details.aspx?id=54920
+     * Exercises: 
+         * CSV - LOCAL & Network Share - See demos/Polybase CSV Demo.sql   
+         * (OPTIONAL) MinIO - sql2022workshop\05_DataVirt\minio\readme.md
+         * Other 2019 Exercises [https://github.com/microsoft/sqlworkshops-sql2019workshop/tree/master/sql2019workshop/08_DataVirtualization](https://github.com/microsoft/sqlworkshops-sql2019workshop/tree/master/sql2019workshop/08_DataVirtualization) 
+         * Other 2022 Exercises - [https://github.com/microsoft/sqlworkshops-sql2022workshop/tree/main/sql2022workshop/05_DataVirt](https://github.com/microsoft/sqlworkshops-sql2022workshop/tree/main/sql2022workshop/05_DataVirt)
 
-    * Q & A, Evals
+ * Q & A, Evals
 
 
 ---
