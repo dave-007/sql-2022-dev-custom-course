@@ -91,7 +91,11 @@ to wait, it will eventually open.
 
 ### PM
  * [SSIS in VS 2022](https://techcommunity.microsoft.com/t5/sql-server-integration-services/bg-p/SSIS)
+     * [VS Marketplace Extension](https://marketplace.visualstudio.com/items?itemName=SSIS.SqlServerIntegrationServicesProjects&ssr=false#overview)
+     * [What's New in SSIS 2017](https://learn.microsoft.com/en-us/sql/integration-services/what-s-new-in-integration-services-in-sql-server-2017?view=sql-server-ver16)
+     * [What's New in SSIS 2019](https://learn.microsoft.com/en-us/sql/sql-server/what-s-new-in-sql-server-2019?view=sql-server-ver16#sql-server-integration-services) 
      * [Tutorials](https://learn.microsoft.com/en-us/sql/integration-services/integration-services-tutorials?view=sql-server-ver16)
+     * [SSIS Blog] (https://techcommunity.microsoft.com/category/sql-server/blog/ssis)
      * [Lesson 1: Create a project and basic package with SQL Server Integration Services (SSIS)](https://learn.microsoft.com/en-us/sql/integration-services/lesson-1-create-a-project-and-basic-package-with-ssis?view=sql-server-ver16)
  * Data Virtualization
      * Polybase Overview (2019 PPT, slide 43-47)
@@ -99,7 +103,7 @@ to wait, it will eventually open.
      * Drivers: https://www.microsoft.com/en-us/download/details.aspx?id=54920
      * Exercises: 
          * CSV - LOCAL & Network Share - See demos/Polybase CSV Demo.sql   
-         * (OPTIONAL) MinIO - sql2022workshop\05_DataVirt\minio\readme.md
+         * DEMO - MinIO - sql2022workshop\05_DataVirt\minio\readme.md
          * Other 2019 Exercises [https://github.com/microsoft/sqlworkshops-sql2019workshop/tree/master/sql2019workshop/08_DataVirtualization](https://github.com/microsoft/sqlworkshops-sql2019workshop/tree/master/sql2019workshop/08_DataVirtualization) 
          * Other 2022 Exercises - [https://github.com/microsoft/sqlworkshops-sql2022workshop/tree/main/sql2022workshop/05_DataVirt](https://github.com/microsoft/sqlworkshops-sql2022workshop/tree/main/sql2022workshop/05_DataVirt)
 
