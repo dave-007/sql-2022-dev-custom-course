@@ -21,7 +21,7 @@
 - In VS 2022, Create new SSIS Project, any name, with defaults
 - Rename Package.dtsx to ExportTables.dtsx
 - ![alt text](image-2.png)
-- In Connection Manager, create connection to AdventureWorks2022
+- In Connection Manager, create connection to AdventureWorksDW2022
 - ![AWDW2022](image-1.png)
 - Add Data Flow Task
 - In Data Flow Task, add OLEDB data source
