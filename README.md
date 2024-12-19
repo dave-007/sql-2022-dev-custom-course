@@ -97,6 +97,7 @@ to wait, it will eventually open.
      * [Tutorials](https://learn.microsoft.com/en-us/sql/integration-services/integration-services-tutorials?view=sql-server-ver16)
      * [SSIS Blog] (https://techcommunity.microsoft.com/category/sql-server/blog/ssis)
      * [Lesson 1: Create a project and basic package with SQL Server Integration Services (SSIS)](https://learn.microsoft.com/en-us/sql/integration-services/lesson-1-create-a-project-and-basic-package-with-ssis?view=sql-server-ver16)
+ * [SSIS Project Deployment to SSISDB](./demos/SSISDB_Deployment_Demo.md)
  * Data Virtualization
      * Polybase Overview (2019 PPT, slide 43-47)
      * Configuration: https://learn.microsoft.com/en-us/sql/relational-databases/polybase/polybase-installation?view=sql-server-ver16#use-the-installation-wizard
